@@ -1,2 +1,1 @@
-# web
-sekolah
+# WEBSITE-SEKOLAH
